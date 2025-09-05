@@ -63,7 +63,7 @@ npm run dev
 🌍 Live Demo
 
 * **GitHub Pages**: [Weather App](https://nikhita22032003.github.io/weather-app/)
-
+https://nikhita22032003.github.io/weather-app/
 
  🧑‍💻 Code Notes
 
